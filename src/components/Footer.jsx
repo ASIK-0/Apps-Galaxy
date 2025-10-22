@@ -4,27 +4,27 @@ import { Link } from 'react-router';
 const Footer = () => {
     return (
         <div>
-            <footer className="footer sm:footer-horizontal text-center bg-[#001931] px-2.5 md:px-[80px] justify-between  text-white p-10">
+            <footer className="footer sm:footer-horizontal text-center bg-[#001931] px-8 md:px-[80px] justify-between  text-white p-10">
                 <nav>
-                    <Link to={'/'} className='flex items-center' ><img className='h-[30px] w-[30px] md:h-[60px] md:w-[50px]'
-                        src={logoImg} alt="" /><span className='font-extrabold text-fuchsia-700 text-xl md:text-2xl'>
+                    <Link to={'/'} className='flex items-center' ><img className='h-[50px] w-[50px] md:h-[60px] md:w-[50px]'
+                        src={logoImg} alt="" /><span className='font-extrabold text-fuchsia-700 text-3xl md:text-2xl'>
                             <span className='text-[#632EE3]'>App</span>Orbit</span></Link>
-                    <p className='text-start'>We craft innovative and meaningful apps that simplify your daily life  <br />while unlocking your creative potential.Every line of code we write is designed to bring comfort, clarity, <br /> and inspiration to your digital world.🌿</p>
+                    <p className='text-start text-wrap max-w-[400px]'>We craft innovative and meaningful apps that simplify your daily life while unlocking your creative potential.Every line of code we write is designed to bring comfort, clarity, and inspiration to your digital world.🌿</p>
 
                 </nav>
                 <nav>
                     <h6 className="footer-title">Services</h6>
                     <Link className="link link-hover">Branding</Link>
-                    <Link clLinkssNLinkme="link link-hover">Design</Link>
-                    <Link clLinkssNLinkme="link link-hover">MLinkrketing</Link>
-                    <Link clLinkssNLinkme="link link-hover">Linkdvertisement</Link>
+                    <Link className="link link-hover">Design</Link>
+                    <Link className="link link-hover">MLinkrketing</Link>
+                    <Link className="link link-hover">Linkdvertisement</Link>
                 </nav>
                 <nav>
-                    <h6 clLinkssNLinkme="footer-title">CompLinkny</h6>
-                    <Link clLinkssNLinkme="link link-hover">Linkbout us</Link>
-                    <Link clLinkssNLinkme="link link-hover">ContLinkct</Link>
-                    <Link clLinkssNLinkme="link link-hover">Jobs</Link>
-                    <Link clLinkssNLinkme="link link-hover">Press kit</Link>
+                    <h6 className="footer-title">CompLinkny</h6>
+                    <Link className="link link-hover">Linkbout us</Link>
+                    <Link className="link link-hover">ContLinkct</Link>
+                    <Link className="link link-hover">Jobs</Link>
+                    <Link className="link link-hover">Press kit</Link>
                 </nav>
                 <nav>
                     <h6 className="footer-title">Social</h6>
