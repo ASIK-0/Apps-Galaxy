@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/LdqjPBHQ/Cameraphotography-logo-template-modern-camera-photo-logo-Premium-Vector.jpg",
+    "title": "Photo Editor Pro",
+    "companyName": "SmartEdit Technologies",
+    "id": 1,
+    "description": "Photo Editor Pro offers an extensive suite of professional-grade editing tools designed to help users enhance and transform their photographs effortlessly. With advanced filters, layer masks, blending modes, auto‑adjustments, and RAW support, you can turn ordinary images into stunning works of art. Customizable brush tools, real‑time previews and built‑in sharing options make the editing process smooth and intuitive for beginners and professionals alike.",
+    "size": 45,
+    "reviews": 500000,
+    "ratingAvg": 4.5,
+    "downloads": "50m",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 335000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k2wczsFQ/download.jpg",
+    "title": "Fitness Tracker",
+    "companyName": "HealthTech Labs",
+    "id": 2,
+    "description": "Fitness Tracker is a full‑featured health and workout companion that monitors your physical activity, heart rate, calories burned, sleep quality and hydration levels. With personalized workout plans tailored to your fitness level and goals — whether weight loss, endurance or muscle‑gain — the app offers real‑time data, wearable device integration, progress charts and motivational challenges to keep you on track toward a healthier lifestyle.",
+    "size": 38,
+    "reviews": 300000,
+    "ratingAvg": 4.2,
+    "downloads": "10m",
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 38000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 162000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vx5fjJHX/download-1.jpg",
+    "title": "Note Master",
+    "companyName": "ProductivitySoft Inc.",
+    "id": 3,
+    "description": "Note Master helps you organize thoughts, meetings, tasks and ideas in one place. With smart summarization, tagging, task lists and cross‑device sync, you can keep everything in order with minimal effort. A clean, distraction‑free interface, quick search and reminder integration makes it an ideal tool for students, professionals and creatives alike.",
+    "size": 22,
+    "reviews": 200000,
+    "ratingAvg": 4.0,
+    "downloads": "300k",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 65000 },
+      { "name": "5 star", "count": 95000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdRD5R4f/Download-music-lover-concept-illustrated-with-smartphone-wearing-headphone-playing-favorite-heart-mu.jpg",
+    "title": "Music Streamer",
+    "companyName": "TuneFlow Media",
+    "id": 4,
+    "description": "Music Streamer provides you access to millions of tracks, personalized playlists, offline playback and high‑quality audio streaming. The algorithm learns your taste and mood, delivering new artist suggestions and curated genre stations. With intuitive controls, social sharing and continual updates, Music Streamer makes discovering music easy and enjoyable.",
+    "size": 30,
+    "reviews": 100000,
+    "ratingAvg": 4.7,
+    "downloads": "1m",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 26000 },
+      { "name": "5 star", "count": 73000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLrxznfX/Payment-process-Illustration.jpg",
+    "title": "Budget Planner",
+    "companyName": "FinanceSmart Apps",
+    "id": 5,
+    "description": "Budget Planner enables you to take control of your finances by tracking expenses, setting saving goals, generating reports and alerting you on unusual spending. With real‑time bank sync, bill reminders and visual analytics, you can gain clarity on your financial health and build a stronger financial future.",
+    "size": 28,
+    "reviews": 150000,
+    "ratingAvg": 4.1,
+    "downloads": "5m",
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 29000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 74000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qMfV85K4/Colet-nea-1200-Atividades-Adaptadas-2.jpg",
+    "title": "Language Learner",
+    "companyName": "GlobalEdu Tech",
+    "id": 6,
+    "description": "Language Learner offers interactive lessons, speech recognition, flashcards and conversational practice with native speakers to help you master new languages naturally. Game‑based progression, progress tracking, culture notes and off‑line mode ensure your learning stays fun and sustainable.",
+    "size": 34,
+    "reviews": 250000,
+    "ratingAvg": 4.3,
+    "downloads": "2.5m",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 42000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 127000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1trSL2nD/File-Sticker-PNG-Images-Transparent-HD-Photo-Clipart.jpg",
+    "title": "Task Manager",
+    "companyName": "WorkflowPlus Solutions",
+    "id": 7,
+    "description": "Task Manager is designed to streamline your workflow by helping you prioritise tasks, set deadlines, create subtasks and collaborate in teams. It includes calendar integration, progress tracking and notification reminders, making it suitable for both personal task lists and team projects.",
+    "size": 26,
+    "reviews": 180000,
+    "ratingAvg": 4.0,
+    "downloads": "70k",
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 14000 },
+      { "name": "3 star", "count": 47000 },
+      { "name": "4 star", "count": 65000 },
+      { "name": "5 star", "count": 54000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wFQf9ghG/visualizar-e-criar-um-filme-ou-v-deo-bem-como-imagens-cones-multim-dia-da-c-mera-tira-de-filme-image.jpg",
+    "title": "Video Editor",
+    "companyName": "CreateVision Studios",
+    "id": 8,
+    "description": "Video Editor empowers content creators to craft high‑quality videos using an intuitive interface. With features like multi‑track editing, transitions, filters, audio mixing, text overlays, and color correction, users can produce professional videos on the go. The app supports export to multiple formats and simplifies sharing on social platforms.",
+    "size": 120,
+    "reviews": 400000,
+    "ratingAvg": 4.4,
+    "downloads": "750k",
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 16000 },
+      { "name": "3 star", "count": 55000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 209000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rKMTnTnN/Weather-News-free-icons-designed-by-Freepik.jpg",
+    "title": "Weather Forecast",
+    "companyName": "SkyPredict Labs",
+    "id": 9,
+    "description": "Weather Forecast delivers precise, location‑based weather updates, hourly radar maps, severe weather alerts and personalised widgets. With offline functionality and multiple location tracking, you’ll stay prepared for any change in conditions whether you’re at home or on the go.",
+    "size": 14,
+    "reviews": 600000,
+    "ratingAvg": 4.2,
+    "downloads": "100m",
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 412000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3YM163TP/download-2.jpg",
+    "title": "Recipe Book",
+    "companyName": "FoodGenius Apps",
+    "id": 10,
+    "description": "Recipe Book is your culinary assistant that creates meal plans, generates grocery lists and offers step‑by‑step cooking instructions with video demonstrations. Browse thousands of recipes across cuisines, apply filters for dietary needs, save favourites and share your culinary journey with friends and family.",
+    "size": 33,
+    "reviews": 220000,
+    "ratingAvg": 4.3,
+    "downloads": "400k",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 46000 },
+      { "name": "5 star", "count": 141000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ZzgBxg7G/Man-Meditating-in-Lotus-Position-with-Floral-Elements.jpg",
+    "title": "Meditation Guide",
+    "companyName": "MindCalm Tech",
+    "id": 11,
+    "description": "Meditation Guide offers tailored mindfulness and meditation sessions to reduce stress, improve focus and enhance wellbeing. With guided exercises, sleep‑aid soundscapes, breathing techniques and daily reminders, this app supports both beginners and experienced practitioners in building a consistent mindfulness practice.",
+    "size": 25,
+    "reviews": 200000,
+    "ratingAvg": 4.6,
+    "downloads": "150k",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 24000 },
+      { "name": "4 star", "count": 44000 },
+      { "name": "5 star", "count": 129000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TM4R0NwB/download-3.jpg",
+    "title": "Travel Planner",
+    "companyName": "JourneySmart Inc.",
+    "id": 12,
+    "description": "Travel Planner is a comprehensive travel app designed to simplify every stage of your journey. From booking hotels and flights to creating itineraries and generating offline maps, the app helps you stay organised. It offers budget tracking, local recommendations, language guides and collaboration tools for group travel, making any trip smoother and more enjoyable.",
+    "size": 58,
+    "reviews": 350000,
+    "ratingAvg": 4.4,
+    "downloads": "900k",
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 13000 },
+      { "name": "3 star", "count": 52000 },
+      { "name": "4 star", "count": 103000 },
+      { "name": "5 star", "count": 175000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yn2r2jfp/Vintage-Radio-Design-Book-Covers.jpg",
+    "title": "E‑Book Reader",
+    "companyName": "ReadSmart Solutions",
+    "id": 13,
+    "description": "E‑Book Reader is a sophisticated reading tool designed for avid readers and learners. It supports EPUB, PDF & MOBI formats, offers customizable font sizes, annotation tools, night mode and smart summaries. Sync your library across devices, highlight key points and look up definitions in‑app to enhance comprehension and engagement.",
+    "size": 40,
+    "reviews": 180000,
+    "ratingAvg": 4.1,
+    "downloads": "15m",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 103000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KjX9rT6g/Download-premium-vector-of-Smart-watch-vector-by-Tang-about-smartwatch-wearable-wearables-heart-smar.jpg",
+    "title": "Fitness Yoga",
+    "companyName": "YogaMind Tech",
+    "id": 14,
+    "description": "Fitness Yoga offers a holistic approach to wellness with guided yoga sessions, meditation practices, breathing exercises and posture tutorials. Whether you’re a beginner or advanced yogi, the app adapts to your level and goals. Track your progress, join daily challenges, and pair your sessions with calming music to create a balanced mind‑body experience.",
+    "size": 35,
+    "reviews": 280000,
+    "ratingAvg": 4.5,
+    "downloads": "200k",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 26000 },
+      { "name": "4 star", "count": 65000 },
+      { "name": "5 star", "count": 180000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XrLv5j0h/Perekam.jpg",
+    "title": "Podcast Player",
+    "companyName": "SoundWave Innovations",
+    "id": 15,
+    "description": "Podcast Player is designed for enthusiasts to discover, manage and listen to podcasts across genres. With offline playback, smart playlist creation, episode bookmarking, and personalized recommendations, you can explore content easily. Sleep timer and share‑with‑friends features add extra convenience for podcast lovers.",
+    "size": 29,
+    "reviews": 300000,
+    "ratingAvg": 4.3,
+    "downloads": "650k",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 75000 },
+      { "name": "5 star", "count": 179000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/m5VKrP3k/demo-app-1.webp",
+    "title": "Habit Tracker",
+    "companyName": "LifeHack Labs",
+    "id": 16,
+    "description": "Habit Tracker empowers you to build good habits and break bad ones with intuitive tracking, reminders, streaks, charts and motivational challenges. Set daily, weekly or monthly goals, visualise your progress and join community habit‑challenges to stay accountable. Simple design meets powerful behavior‑change tools.",
+    "size": 21,
+    "reviews": 160000,
+    "ratingAvg": 4.2,
+    "downloads": "80k",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 71000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/20xBSFZ9/verbicon-sleep-by-lazarustudio.jpg",
+    "title": "Sleep Sounds",
+    "companyName": "DreamTech Inc.",
+    "id": 17,
+    "description": "Sleep Sounds provides calming soundscapes, white‑noise mixes and guided relaxation sessions to help you fall asleep faster and enjoy deeper rest. Features like sleep timer, ambient visuals, daily logs and sleep analytics make it ideal for anyone looking to improve sleep quality and establish a healthier night‑time routine.",
+    "size": 27,
+    "reviews": 250000,
+    "ratingAvg": 4.6,
+    "downloads": "1.2m",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 47000 },
+      { "name": "5 star", "count": 180000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0RgbHgN5/Logo-Templates-from-Graphic-River.jpg",
+    "title": "News Reader",
+    "companyName": "InfoFlow Digital",
+    "id": 18,
+    "description": "News Reader delivers personalised news summaries, breaking‑news alerts and curated feeds based on your interests. With offline reading, multi‑source aggregation and smart save‑for‑later options, you’ll always stay informed without being overwhelmed. Clean interface and intuitive navigation make it easy to scan headlines and dive deeper when you want.",
+    "size": 19,
+    "reviews": 400000,
+    "ratingAvg": 4.4,
+    "downloads": "500k",
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 45000 },
+      { "name": "4 star", "count": 95000 },
+      { "name": "5 star", "count": 218000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1trSL2nD/File-Sticker-PNG-Images-Transparent-HD-Photo-Clipart.jpg",
+    "title": "Daily Planner",
+    "companyName": "OrganizeIt Solutions",
+    "id": 19,
+    "description": "Daily Planner is a smart planning app designed to help you organise your day, schedule tasks, track habits and visualise progress. With calendar sync, custom reminders, recurring tasks and analytics to show how you’re spending time, this app is perfect for anyone striving for better productivity and time‑management.",
+    "size": 31,
+    "reviews": 140000,
+    "ratingAvg": 4.0,
+    "downloads": "120k",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/CsbmBFFL/rainbow-colors-flower-design.jpg",
+    "title": "Photo Collage Maker",
+    "companyName": "CreativeFrame Apps",
+    "id": 20,
+    "description": "Photo Collage Maker allows you to create beautiful collages and share memories with friends and family. Choose from a variety of layouts, stickers, backgrounds and text options. Easy drag‑and‑drop editing, one‑tap share to social media and high‑resolution export make this app perfect for casual users and creative storytellers alike.",
+    "size": 20,
+    "reviews": 120000,
+    "ratingAvg": 4.2,
+    "downloads": "30m",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 26000 },
+      { "name": "4 star", "count": 36000 },
+      { "name": "5 star", "count": 65000 }
+    ]
+  }
+]

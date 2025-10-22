@@ -6,7 +6,7 @@ import logoImg from '../assets/logoo.png'
 
 const Navbar = () => {
     return (
-        <div className="navbar bg-white px-2.5 md:px-[80px] mb-[80px] shadow-sm">
+        <div className="navbar bg-white px-2.5 md:px-[80px] shadow-sm">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
