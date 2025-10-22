@@ -10,7 +10,7 @@ const Apps = () => {
     const searchedApps = term ?
         apps.filter(app =>
             app.title.toLocaleLowerCase().includes(term))
-             : apps
+        : apps
 
     return (
         <div className='bg-gray-100'>
