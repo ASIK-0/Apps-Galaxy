@@ -6,7 +6,7 @@ import bannerImg from '../assets/hero.png'
 const Banner = () => {
     return (
         <div>
-            <div className='px-2.5 pt-[80px ] md:px-[80px]'>
+            <div className='px-2.5 pt-[80px ] pt-2.5 md:px-[80px]'>
                 <div className='text-center'>
                     <h1 className='text-4xl md:text-7xl font-bold text-center'>We Build <br /> <span className='text-[#9F62F2]'>Productive</span> Apps</h1>
                     <p className='text-[#627382] mx-auto mt-3 md:w-2/4'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
@@ -19,7 +19,7 @@ const Banner = () => {
                     <img className='mx-auto' src={bannerImg} alt="" />
                 </div>
             </div>
-            <div className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] mx-auto text-white py-[80px] px-8 md:px-[80px]'>
+            <div className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] mx-auto text-white py-4 md:py-[80px] px-2.5 md:px-[80px]'>
                 <h1 className='text-3xl md:text-5xl text-center font-bold mb-[40px]'>Trusted by Millions, Built for You</h1>
                 <div className='flex flex-col md:flex-row justify-center gap-19 '>
                     <div className='text-center'>
