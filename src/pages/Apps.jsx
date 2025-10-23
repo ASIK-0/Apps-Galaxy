@@ -40,7 +40,7 @@ const Apps = () => {
                 <h1 className='font-bold text-3xl mb-2.5 md:text-[48px] pt-3 sm:pt-6 md:pt-[80px] text-center'>Our All Applications</h1>
                 <p className='text-[#627382] text-center'>Explore All Apps on the Market developed by us. We code for Millions</p>
                 <div className='flex flex-col sm:flex-row items-center justify-between mt-10'>
-                    <h1><span className='font-bold text-3xl md:text-4xl'>All Apps:</span> <span className=' text-gray-500 text-2xl font-semibold'>({searchedApps.length}) Apps Found </span></h1>
+                    <h1><span className='font-bold text-2xl lg:text-4xl'>All Apps:</span> <span className=' text-gray-500 text-xl font-semibold'>({searchedApps.length}) Apps Found </span></h1>
                     <label className="input mt-4 md:mt-0">
                         <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                             <g
@@ -78,7 +78,7 @@ const Apps = () => {
                             </div>
                         ) : (
 
-                            <div className='grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4  px-6 py-[40px] md:px-[80px] gap-4'>
+                            <div className='grid sm:grid-cols-2 lg:grid-cols-4  px-6 py-[40px] md:px-[80px] gap-4'>
                                 {
                                     searchedApps.map(app => (
                                         <AppCard key={app.id} app={app} />

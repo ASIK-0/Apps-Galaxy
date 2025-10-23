@@ -8,7 +8,7 @@ const Banner = () => {
         <div>
             <div className='px-2.5 pt-[80px ] pt-2.5 md:px-[80px]'>
                 <div className='text-center'>
-                    <h1 className='text-4xl md:text-7xl font-bold text-center'>We Build <br /> <span className='text-[#9F62F2]'>Productive</span> Apps</h1>
+                    <h1 className='text-4xl sm:text-5xl sm:text-nowrap lg:text-7xl font-bold text-center'>We Build <br /> <span className='text-[#9F62F2]'>Productive</span> Apps</h1>
                     <p className='text-[#627382] mx-auto mt-3 md:w-2/4'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
                 </div>
                 <div className='text-center my-[40px]'>

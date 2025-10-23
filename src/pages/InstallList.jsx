@@ -4,11 +4,15 @@ import ratingIcon from '../assets/icon-ratings.png'
 import { Link } from 'react-router';
 import useApps from '../Hooks/useApps';
 import LoadingSpinner from '../components/LoadingSpinner';
+import Swal from 'sweetalert2'
+import withReactContent from 'sweetalert2-react-content'
+
+const MySwal = withReactContent(Swal)
 
 const InstallList = () => {
     const [installList, setInstallList] = useState([]);
     const [sort, setSort] = useState('none');
-    const [loading] = useApps()
+    const [, loading] = useApps()
     useEffect(() => {
         const savedlist = JSON.parse(localStorage.getItem('Installed'))
         if (Array.isArray(savedlist)) {
@@ -17,6 +21,13 @@ const InstallList = () => {
             setInstallList([]);
         }
     }, []);
+
+    if (loading) {
+        return <div className='flex justify-center items-center h-screen'>
+            <LoadingSpinner />;
+        </div>
+
+    }
 
 
     const sortedItem = Array.isArray(installList) ? (() => {
@@ -30,13 +41,32 @@ const InstallList = () => {
             return installList
         }
     })() : [];
-    
+
 
     const handleUninstall = id => {
-        const excitingList = JSON.parse(localStorage.getItem('Installed'))
-        let updateList = excitingList.filter(a => a.id !== id)
-        setInstallList(updateList)
-        localStorage.setItem('Installed', JSON.stringify(updateList))
+        Swal.fire({
+            title: "Are you sure?",
+            text: "Do you really want to uninstall this app?",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#3085d6",
+            cancelButtonColor: "#d33",
+            confirmButtonText: "Yes"
+        }).then((result) => {
+            if (result.isConfirmed) {
+                const excitingList = JSON.parse(localStorage.getItem('Installed'))
+                let updateList = excitingList.filter(a => a.id !== id)
+                setInstallList(updateList)
+                localStorage.setItem('Installed', JSON.stringify(updateList))
+                
+                Swal.fire({
+                    title: "Uninstalled!",
+                    text: "The app has been successfully removed from your device.",
+                    icon: "success"
+                });
+            }
+        });
+
     }
 
     return (

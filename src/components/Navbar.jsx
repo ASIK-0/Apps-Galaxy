@@ -32,14 +32,14 @@ const Navbar = () => {
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu font-semibold menu-horizontal px-1">
-                    <li>
-                        <NavLink to={'/'}>Home</NavLink>
+                    <li className='font-medium text-lg'>
+                        <NavLink to={'/'} className={({ isActive }) => isActive ? 'text-blue-500 underline ' : ''}>Home</NavLink>
                     </li>
-                    <li>
-                        <NavLink to={'/app'}>Apps</NavLink>
+                    <li className='font-medium text-lg'>
+                        <NavLink to={'/app'} className={({ isActive }) => isActive ? 'text-blue-500 underline' : ''}>Apps</NavLink>
                     </li>
-                    <li className='font'>
-                        <NavLink to={'/install'}>Installation</NavLink>
+                    <li className='font-medium text-lg'>
+                        <NavLink to={'/install'} className={({ isActive }) => isActive ? 'text-blue-500 underline' : '' }>Installation</NavLink>
                     </li>
                 </ul>
             </div>

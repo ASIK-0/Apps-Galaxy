@@ -22,7 +22,7 @@ const Home = () => {
                 <h1 className='font-bold text-[48px] mb-4'>Trending Apps</h1>
                 <p>Explore All Trending Apps on the Market developed by us</p>
             </div>
-            <div className='grid md:grid-cols-2 lg:grid-cols-4  px-6  sm:px-[40px] py-[40px] lg:px-[80px] gap-2'>
+            <div className='grid md:grid-cols-2 lg:grid-cols-4  px-6  sm:px-[40px] py-[40px] lg:px-[80px] gap-3'>
                 {
                     featuredApps.map(app => (
                         <AppCard key={app.id} app={app} />
