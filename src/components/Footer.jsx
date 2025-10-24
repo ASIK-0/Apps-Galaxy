@@ -65,6 +65,7 @@ const Footer = () => {
                     </div>
                 </nav>
             </footer>
+            <h1 className='bg-blue-950 text-center text-white font-medium py-2.5 '>Copyright © 2025 - All right reserved <span className='text-[#632EE3] font-extrabold text-3xl md:text-2xl'>App</span><span className='font-extrabold text-fuchsia-700 text-3xl md:text-2xl'>Orbit</span></h1>
         </div>
   
     );

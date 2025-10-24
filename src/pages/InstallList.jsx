@@ -58,7 +58,7 @@ const InstallList = () => {
                 let updateList = excitingList.filter(a => a.id !== id)
                 setInstallList(updateList)
                 localStorage.setItem('Installed', JSON.stringify(updateList))
-                
+
                 Swal.fire({
                     title: "Uninstalled!",
                     text: "The app has been successfully removed from your device.",
@@ -118,7 +118,7 @@ const InstallList = () => {
                                                 </div>
                                                 <div className='flex gap-1 items-center'>
                                                     <img className='w-[16px] h-[16px]' src={ratingIcon} alt="icon" />
-                                                    <h1 className='font-medium text-[20px] text-orange-400'>{install.ratingAvg}</h1>
+                                                    <h1 className='font-medium text-[20px] text-orange-400'>{install.ratingAvg} K</h1>
                                                 </div>
                                                 <div className='flex text-center'>
                                                     <h1 className='text-gray-500 text-[16px]'>{install.size} MB</h1>
